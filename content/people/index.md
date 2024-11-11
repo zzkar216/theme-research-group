@@ -15,7 +15,7 @@ sections:
           - Researchers
           - Grad Students
           - Administration
-          - Visitors
+          - Stu
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true
